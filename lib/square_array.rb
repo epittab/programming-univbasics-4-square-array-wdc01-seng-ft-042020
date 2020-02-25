@@ -5,4 +5,5 @@ def square_array(array)
     newarr = Math.power(2, array[counter])
     counter += 1
   end
+  return newarr
 end
